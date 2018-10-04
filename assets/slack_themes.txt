@@ -1,0 +1,6 @@
+Monument
+#348d9c,#2E838D,#F06335,#FFFFFF,#2E838D,#ffffff,#EC493C,#f79f63
+
+Black
+#2c2d2f,#616263,#F06335,#FFFFFF,#616263,#ffffff,#EC493C,#f79f63
+
